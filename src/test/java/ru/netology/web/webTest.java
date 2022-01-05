@@ -16,11 +16,13 @@ public class webTest {
                 // "./driver/win/chromedriver.exe"
                 "driver/linux/chromedriver"
         );
+        System.setProperty("chromeoptions.args", "\"--no-sandbox\",\"--disable-dev-shm-usage\"");
     }
 
     @BeforeEach
     void setUp(){
         driver=new ChromeDriver();
+
     }
 
     @AfterEach
