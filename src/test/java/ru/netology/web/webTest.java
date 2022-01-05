@@ -14,7 +14,7 @@ public class webTest {
     static void setUpAll() {
         System.setProperty("webdriver.chrome.driver",
                 // "./driver/win/chromedriver.exe"
-                "./driver/linux/chromedriver"
+                "driver/linux/chromedriver"
         );
     }
 
