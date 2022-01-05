@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.web.webTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-12-06T16:13:32" hostname="LAPTOP-E35FM9L6" time="12.826">
+  <properties/>
+  <testcase name="shouldFailOnUnacceptedAgree()" classname="ru.netology.web.webTest" time="3.062"/>
+  <testcase name="shouldWork()" classname="ru.netology.web.webTest" time="2.493"/>
+  <testcase name="shouldFailOnEmptyName()" classname="ru.netology.web.webTest" time="2.369"/>
+  <testcase name="shouldFailOnWrongPhone()" classname="ru.netology.web.webTest" time="2.433"/>
+  <testcase name="shouldFailOnWrongName()" classname="ru.netology.web.webTest" time="2.465"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 33624
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638807214.340][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+дек. 06, 2021 7:13:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 10134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638807216.970][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+дек. 06, 2021 7:13:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 25844
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638807219.478][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+дек. 06, 2021 7:13:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 29218
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638807221.809][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+дек. 06, 2021 7:13:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 30322
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638807224.245][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+дек. 06, 2021 7:13:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
